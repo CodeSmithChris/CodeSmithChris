@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VoltageGP
-- 👀 I’m interested in computer tech and coding
-- 🌱 I’m currently learning html and css though I know only the basics
+- 👀 I’m a student with a major in Computer Science.
+- 🌱 I’ve dabbled in web development in my own time but otherwise I'm just learning the fundamentals of logic and problem solving
 - 📫 How to reach me: Discord: VoltageGP#2021 or VoltageGP@gmail.com
 
 <!---
