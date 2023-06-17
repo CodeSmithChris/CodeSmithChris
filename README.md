@@ -1,9 +1,9 @@
-<h1 align="center">Hello there, I'm Chris Burlingame</h1>
-<h3 align="center">Currently pursuing my A.S. in Computer science</h3>
+<h1>Hello there, I'm Chris Burlingame</h1>
+<h3>Currently pursuing my A.S. in Computer science</h3>
 
-- 🌱 I’m currently learning **C/C++ along with HTML and CSS**
+- Focused on expanding my knowledge with **C/C++ along with HTML and CSS**
 
-- 📫 How to reach me **chris@cburlingame.tech**
+- Reach me at **chris@cburlingame.tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
