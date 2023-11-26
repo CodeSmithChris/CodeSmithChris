@@ -1,7 +1,7 @@
 <h1>Hello there, I'm Chris Burlingame</h1>
 <h3>Currently pursuing my A.S. in Computer science</h3>
 
-- Focused on expanding my knowledge with **C C++ & Java**
+- Focused on expanding my knowledge with **C/C++ & Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
