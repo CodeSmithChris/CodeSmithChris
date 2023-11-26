@@ -1,10 +1,10 @@
 # Hello there, I'm Chris Burlingame
-## Pursuing my A.S. in Computer science
+<h3>Pursuing my A.S. in Computer science</h3>
 
 - Focused on expanding my knowledge with **C/C++ & Java**
 
 ### Connect with me: 
-<a href="https://www.linkedin.com/in/VoltageGP" title="LinkedIn" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" /> </a> </p>
+<a href="https://www.linkedin.com/in/VoltageGP" title="LinkedIn" target="_blank"> <img src="https://github.com/VoltageGP/VoltageGP.github.io/blob/main/Images/LinkedIn.png" alt="LinkedIn" width="30" /> </a> </p>
 
 ### Languages and Tools
 
