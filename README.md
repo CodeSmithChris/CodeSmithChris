@@ -4,8 +4,7 @@
 - Focused on expanding my knowledge with **C/C++ & Java** but open to other languages or tools.
 
 ### Connect with me: 
-<a href="https://www.linkedin.com/in/VoltageGP" title="LinkedIn" target="_blank"> <img src="https://github.com/VoltageGP/VoltageGP.github.io/blob/main/Images/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" /> </a> </p>
-In-progess [website](https://codesmithchris.github.io/) 
+<a href="https://www.linkedin.com/in/VoltageGP" title="LinkedIn" target="_blank"> <img src="https://github.com/VoltageGP/VoltageGP.github.io/blob/main/Images/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" /> </a> </p>  Visit my in-progess [website](https://codesmithchris.github.io/) 
 
 ### Languages and Tools
 
