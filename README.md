@@ -1,7 +1,7 @@
 # Hello there, I'm Chris Burlingame
 <h3>Pursuing my A.S. in Computer science</h3>
 
-- Focused on expanding my knowledge with **C/C++ & Java**
+- Focused on expanding my knowledge with **C** 
 
 ### Connect with me: 
 <a href="https://www.linkedin.com/in/chrislburlingame/" title="LinkedIn" target="_blank"> <img src="https://github.com/VoltageGP/VoltageGP.github.io/blob/main/Images/linkedin.svg" alt="LinkedIn" width="30" /> </a> </p>  
