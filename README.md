@@ -1,11 +1,8 @@
 # Hello there, I'm Chris Burlingame
 <h3>Pursuing my A.S. in Computer science</h3>
 
-- Focused on expanding my knowledge with **C** 
-
-### Connect with me: 
-<a href="https://www.linkedin.com/in/chrislburlingame/" title="LinkedIn" target="_blank"> <img src="https://github.com/VoltageGP/VoltageGP.github.io/blob/main/Images/linkedin.svg" alt="LinkedIn" width="30" /> </a> </p>  
-<p>Visit my in-progess website <a href="https://codesmithchris.github.io/" title="Website" target="_blank">here</a></p>
+- Currently playing with NodeJS in my free time
+- Using C for school related projects
 
 ### Languages and Tools
 
