@@ -1,7 +1,7 @@
 # Hello there, I'm Chris Burlingame
 <h3>Pursuing my A.S. in Computer science</h3>
 
-- Currently playing with NodeJS in my free time
+- Playing with NodeJS in my free time
 - Using C for school related projects
 
 ### Languages and Tools
